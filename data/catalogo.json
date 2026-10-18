@@ -1,0 +1,86 @@
+[
+  {
+    "id": "senma-sm2017",
+    "marca": "SENMA",
+    "modelo": "SM2017",
+    "medida": "47□21-145",
+    "categoria": "Armazón óptico redondo",
+    "color": "Carey oscuro con degradado café claro",
+    "imagen": "assets/catalogo/senma-sm2017.webp",
+    "imagenOriginal": "assets/catalogo/senma-sm2017.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  },
+  {
+    "id": "senma-sm653-azul",
+    "marca": "SENMA",
+    "modelo": "SM653",
+    "medida": "54□15-143",
+    "categoria": "Armazón óptico rectangular",
+    "color": "Azul marino",
+    "imagen": "assets/catalogo/senma-sm653-azul.webp",
+    "imagenOriginal": "assets/catalogo/senma-sm653-azul.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  },
+  {
+    "id": "senma-sm653-cafe",
+    "marca": "SENMA",
+    "modelo": "SM653",
+    "medida": "54□15-143",
+    "categoria": "Armazón óptico rectangular",
+    "color": "Café con detalles ámbar",
+    "imagen": "assets/catalogo/senma-sm653-cafe.webp",
+    "imagenOriginal": "assets/catalogo/senma-sm653-cafe.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  },
+  {
+    "id": "hashtag-hp1012-c2",
+    "marca": "#HASHTAG",
+    "modelo": "HP1012 C2",
+    "medida": "54□18-143",
+    "categoria": "Armazón óptico rectangular",
+    "color": "Azul acero",
+    "imagen": "assets/catalogo/hashtag-hp1012-c2.webp",
+    "imagenOriginal": "assets/catalogo/hashtag-hp1012-c2.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  },
+  {
+    "id": "senma-sm961",
+    "marca": "SENMA",
+    "modelo": "SM961",
+    "medida": "56□17-143",
+    "categoria": "Armazón óptico estilo aviador",
+    "color": "Plateado con terminales jaspeadas",
+    "imagen": "assets/catalogo/senma-sm961.webp",
+    "imagenOriginal": "assets/catalogo/senma-sm961.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  },
+  {
+    "id": "senma-sm956",
+    "marca": "SENMA",
+    "modelo": "SM956",
+    "medida": "56□17-143",
+    "categoria": "Armazón óptico estilo aviador",
+    "color": "Dorado y negro",
+    "imagen": "assets/catalogo/senma-sm956.webp",
+    "imagenOriginal": "assets/catalogo/senma-sm956.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  },
+  {
+    "id": "senma-sm982",
+    "marca": "SENMA",
+    "modelo": "SM982",
+    "medida": "56□18-143",
+    "categoria": "Armazón óptico estilo aviador",
+    "color": "Gris oscuro metálico",
+    "imagen": "assets/catalogo/senma-sm982.webp",
+    "imagenOriginal": "assets/catalogo/senma-sm982.jpg",
+    "precio": null,
+    "disponibilidad": "Por confirmar"
+  }
+]
